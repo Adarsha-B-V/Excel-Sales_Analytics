@@ -20,7 +20,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Adarsha-B-V/Excel-Sales_Analytics/commit/17b19343c486f445cc274db6a6ca29eff3c75345)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Adarsha-B-V/Excel-Sales_Analytics/commit/17b19343c486f445cc274db6a6ca29eff3c75345)_ & _[Months](https://github.com/Adarsha-B-V/Excel-Sales_Analytics/commit/17b19343c486f445cc274db6a6ca29eff3c75345)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
